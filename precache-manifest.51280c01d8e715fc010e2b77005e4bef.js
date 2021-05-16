@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "132b1781e4fb225ff9dd",
-    "url": "/web-site-lab/static/js/main.2fa41aec.chunk.js"
+    "revision": "032d5e3aba32a01d9b72",
+    "url": "/web-site-lab/static/js/main.22a41648.chunk.js"
   },
   {
     "revision": "8291e003f86c23705357",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/web-site-lab/static/media/logo.b61820fd.svg"
   },
   {
-    "revision": "de0fe7afbe95b6ad745acf9f5bb38745",
+    "revision": "ebdf4f79fdb945acfee19f84963560c7",
     "url": "/web-site-lab/index.html"
   }
 ];
